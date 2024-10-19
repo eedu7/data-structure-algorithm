@@ -55,3 +55,21 @@
         - Dictionary (Built-in)
         - Tree
         - Graph
+
+## Types of Algorithms
+- Sorting
+  - To sort data in ascending or descending
+  - i.e bubble sort, insertion sort, merge sort and heap sort, etc.
+- Searching
+  - To find a specific value in a data set
+  - i.e linear search and binary search, etc
+- Graph
+  - To work with data that can be represented as a graph
+  - i.e breadth-first search and depth-first search, etc.
+- Dynamic Programming
+  - To solve problems by breaking them down into smaller sub-problems
+- Divide and Conquer:
+  - To solve problem by breaking them down into smaller sub-problems, solving each sub-problem independently, and then combining the results.
+  - i.e merge sort and quick sort, etc.
+- Recursive
+  - To solve problems by breaking them down into smaller sub-problems that are similar in nature
